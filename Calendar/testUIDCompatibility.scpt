@@ -1,0 +1,1 @@
+/Users/jjbiggins/Library/Scripts/testUIDCompatibility.scpt
